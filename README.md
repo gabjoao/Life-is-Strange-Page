@@ -1,0 +1,1 @@
+Uma página sobre a franquia de jogos *Life is Strange*
