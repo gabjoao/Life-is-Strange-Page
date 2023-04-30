@@ -83,7 +83,7 @@ a:visited {
 }
 
 .primeiraContainer{
-    background-image: url("/media/lis3-wallpaper.jpg");
+    background-image: url("../media/lis3-wallpaper.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
@@ -209,7 +209,7 @@ a:visited {
 
 
 .alexContainer{
-    background-image: url("/media/alex-wallpaper.jpg") ;
+    background-image: url("../media/alex-wallpaper.jpg") ;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -234,7 +234,7 @@ a:visited {
 }
 
 .gabeContainer{
-    background-image: url("/media/gabe-wallpaper.jpg");
+    background-image: url("../media/gabe-wallpaper.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
@@ -289,7 +289,7 @@ a:visited {
 }
 
 .ep1{
-    background-image: url("/media/lis3-ep1-wallpaper.jpg");
+    background-image: url("../media/lis3-ep1-wallpaper.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -300,7 +300,7 @@ a:visited {
 }
 
 .ep2{
-    background-image: url("/media/lis3-ep2-wallpaper.jpg");
+    background-image: url("../media/lis3-ep2-wallpaper.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -311,7 +311,7 @@ a:visited {
 }
  
 .ep3{
-    background-image: url("/media/lis3-ep3-wallpaper.jpg");
+    background-image: url("../media/lis3-ep3-wallpaper.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
@@ -321,7 +321,7 @@ a:visited {
 }
  
 .ep4{
-    background-image: url("/media/lis3-ep4-wallpaper.jpg");
+    background-image: url("../media/lis3-ep4-wallpaper.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -332,7 +332,7 @@ a:visited {
 }
 
 .ep5{
-    background-image: url("/media/lis3-ep5-wallpaper.jpg");
+    background-image: url("../media/lis3-ep5-wallpaper.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;

@@ -84,7 +84,7 @@ a:visited {
 }
 
 .primeiraContainer{
-    background-image: url("/media/lis2-wallpaper.jpg");
+    background-image: url("../media/lis2-wallpaper.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
@@ -202,7 +202,7 @@ a:visited {
 
 
 .seanContainer{
-    background-image: url("/media/sean-wallpaper.jpg") ;
+    background-image: url("../media/sean-wallpaper.jpg") ;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -227,7 +227,7 @@ a:visited {
 }
 
 .danielContainer{
-    background-image: url("/media/daniel-wallpaper.jpg");
+    background-image: url("../media/daniel-wallpaper.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
@@ -282,7 +282,7 @@ a:visited {
 }
 
 .ep1{
-    background-image: url("/media/lis2-ep1-wallpaper.jpg");
+    background-image: url("../media/lis2-ep1-wallpaper.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -293,7 +293,7 @@ a:visited {
 }
 
 .ep2{
-    background-image: url("/media/lis2-ep2-wallpaper.jpg");
+    background-image: url("../media/lis2-ep2-wallpaper.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -304,7 +304,7 @@ a:visited {
 }
  
 .ep3{
-    background-image: url("/media/lis2-ep3-wallpaper.jpg");
+    background-image: url("../media/lis2-ep3-wallpaper.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
@@ -314,7 +314,7 @@ a:visited {
 }
  
 .ep4{
-    background-image: url("/media/lis2-ep4-wallpaper.jpg");
+    background-image: url("../media/lis2-ep4-wallpaper.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -325,7 +325,7 @@ a:visited {
 }
 
 .ep5{
-    background-image: url("/media/lis2-ep5-wallpaper.jpg");
+    background-image: url("../media/lis2-ep5-wallpaper.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
