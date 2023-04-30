@@ -16,3 +16,4 @@ A página principal conta com as seguintes partes:
 Toda a organização das páginas foi feito utilizando Flexbox.
 Feito em colaboração com [@glovackimax](https://github.com/glovackimax).
 
+https://gabjoao.github.io/Life-is-Strange-Page/
