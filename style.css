@@ -360,6 +360,8 @@ form{
     align-items: center;
     justify-content: center;
     gap: 10px;
+    box-shadow: 2px 2px 12px 0px black;
+
 }
 
 form h1, h3{
