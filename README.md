@@ -18,3 +18,5 @@ Toda a organização das páginas foi feito utilizando Flexbox, a página de con
 Feito em colaboração com [@glovackimax](https://github.com/glovackimax).
 
 https://gabjoao.github.io/Life-is-Strange-Page/
+
+![](https://steamuserimages-a.akamaihd.net/ugc/771730716929087717/2CFBF036822073A75463EBAB1503EE9A6FF18146/)
